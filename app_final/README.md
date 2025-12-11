@@ -60,7 +60,6 @@ matplotlib
 ✔️ 5. Rodar a aplicação
 streamlit run app.py
 
-
 Isso abrirá automaticamente no navegador em:
 
 http://localhost:8501
@@ -159,6 +158,7 @@ Agregação de regras (max ou soma-limitada)
 
 Defuzzificação customizada
 
+
 📦 Distribuição / Execução em Outra Máquina
 
 Para rodar este projeto em qualquer computador:
@@ -182,6 +182,7 @@ Gráficos não aparecem	Verifique se o Matplotlib está instalado
 Navegador não abre	Acesse manualmente: http://localhost:8501
 
 Streamlit não encontrado	Execute: pip install streamlit
+
 🤝 Contribuições
 
 Sinta-se à vontade para enviar melhorias, abrir issues ou sugerir novas funcionalidades.
